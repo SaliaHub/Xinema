@@ -23,7 +23,7 @@ function PieceCase() {
                 }}
             >
                 <img
-                    src={"../../../../../images/Breaking_Bad.webp"}
+                    src={"/Xinema/images/Breaking_Bad.webp"}
                     alt="Poster"
                     style={{
                         position: "absolute",
