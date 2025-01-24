@@ -7,7 +7,6 @@ function App(){
     return (
         <Container>
             <Head />
-            {/*<Categories />*/}
             <Body/>
         </Container>
     )
