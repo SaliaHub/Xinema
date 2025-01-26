@@ -1,7 +1,7 @@
 function Logo() {
     return (
         <div>
-            <img src="/images/Logo.png"
+            <img src="/Xinema/images/Logo.png"
                  alt="the-mandalorian-font"/>
         </div>
 

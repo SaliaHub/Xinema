@@ -30,7 +30,8 @@ function Body() {
                 sx={{
                     position: "absolute",
                     top: "320px",
-                    left: "200px"
+                    justifyContent:"center",
+                    justifyItems:"center"
                 }}
             >
                 <PieceCase/>
