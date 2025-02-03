@@ -6,7 +6,7 @@ import Body from "./Home/Body/Body.tsx";
 function App(){
     return (
         <Container>
-            <Head />
+            <Head/>
             <Body/>
         </Container>
     )

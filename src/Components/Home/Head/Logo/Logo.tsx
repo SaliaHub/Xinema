@@ -1,6 +1,10 @@
+import {useNavigate} from "react-router-dom";
+
 function Logo() {
+    const navigate = useNavigate();
     return (
-        <div>
+
+        <div onClick={() => {navigate("/Xinema/")}}>
             <img src="/Xinema/images/Logo.png"
                  alt="the-mandalorian-font"/>
         </div>
